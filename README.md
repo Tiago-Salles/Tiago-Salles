@@ -8,7 +8,6 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tiago-salles-b56a131a7/)
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Flutter projects...
 - 🌱 I’m currently learning Mobile Development...
